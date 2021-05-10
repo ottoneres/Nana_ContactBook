@@ -1,0 +1,16 @@
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.exe
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.deps.json
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.runtimeconfig.json
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.runtimeconfig.dev.json
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.dll
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\ref\agendaVovo.dll
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\bin\Debug\net5.0\agendaVovo.pdb
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.csprojAssemblyReference.cache
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.AssemblyInfoInputs.cache
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.AssemblyInfo.cs
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.csproj.CoreCompileInputs.cache
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.dll
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\ref\agendaVovo.dll
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.pdb
+C:\Users\Otto\source\repos\agendaVovo\agendaVovo\obj\Debug\net5.0\agendaVovo.genruntimeconfig.cache

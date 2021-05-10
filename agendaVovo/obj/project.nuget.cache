@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TU2SpHB1mE7JLQ0mPsARjQ7NawMhbOTQJ/vcaa06Qgok3PgkKA4sCv99tpHZu6JS8eO3brq+P+7PeYWiOaFEFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Otto\\source\\repos\\agendaVovo\\agendaVovo\\agendaVovo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Otto\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
